@@ -2,7 +2,7 @@
 - 👀 I’m interested in Image Proccessing
 - 🌱 I’m currently learning Phyton, 
 - 💞️ I’m looking to collaborate on Front-End Web Development
-- 📫 You can reach me doganutku@eskisehir.edu.tr
+- 📫 You can reach me doganutkuozyigit@eskisehir.edu.tr
 
 <!---
 doganutku/doganutku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
