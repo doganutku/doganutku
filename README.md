@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doganutku
 - 👀 I’m interested in Image Proccessing
-- 🌱 I’m currently learning Phyton, 
+- 🌱 I’m currently learning Phyton, Java
 - 💞️ I’m looking to collaborate on Front-End Web Development
 - 📫 You can reach me doganutkuozyigit@eskisehir.edu.tr
 
