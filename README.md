@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doganutku
-- 👀 I’m interested in Image Proccessing
+- 👀 I’m interested in Image Proccessing, Network and Data Science fields
 - 🌱 I’m currently learning Phyton, Java
 - 💞️ I’m looking to collaborate on Front-End Web Development
 - 📫 You can reach me doganutkuozyigit@ogr.eskisehir.edu.tr
